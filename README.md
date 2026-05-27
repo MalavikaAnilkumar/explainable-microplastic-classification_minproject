@@ -64,6 +64,9 @@ The project includes:
 ## Output
 ![Output Image](outputs/xai_result12.png)
 
+## Confusion matrix
+![Output Image](outputs/img3.png)
+
 ## Model Architecture
 
 **MicroFormerX** uses a two-stream feature extraction pipeline:
@@ -333,14 +336,6 @@ All generated artifacts are saved to the `outputs/` directory:
 | `filament` | Fiber-like microplastic strands     |
 | `fragment` | Irregular broken plastic pieces     |
 | `pellet`   | Spherical / bead-like microplastics |
-
----
-
-## License
-
-This project is released under the MIT License.
-
----
 
 ## Acknowledgments
 
