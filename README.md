@@ -65,7 +65,7 @@ The project includes:
 ![Output Image](outputs/xai_result12.png)
 
 ## Confusion matrix
-![Output Image](outputs/img3.png)
+![Output Image](outputs/external_confusion_matrix.png)
 
 ## Model Architecture
 
