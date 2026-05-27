@@ -277,25 +277,6 @@ Launches the Flask backend on `http://localhost:5000`.
 
 ---
 
-## Configuration
-
-Edit `config.py` to customize:
-
-```python
-DATA_PATH    = "dataset"        # Dataset root
-IMG_SIZE     = 224              # Input image size
-NUM_CLASSES  = 4                # Microplastic classes
-NUM_SOURCES  = 3                # Source domain classes
-BATCH_SIZE   = 4                # Training batch size
-EPOCHS       = 20               # Training epochs
-LR           = 1e-4             # Learning rate
-MODEL_PATH   = "outputs/microformerx_rtx3050.pth"
-BEST_PATH    = "outputs/best_model.pth"
-DEVICE       = "cuda" or "cpu"  # Auto-detected
-```
-
----
-
 ## Microplastic Detection Inside Algae
 
 The `xai.py` pipeline includes a specialized detector that:
