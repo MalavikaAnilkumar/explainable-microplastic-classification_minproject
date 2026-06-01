@@ -1,8 +1,59 @@
-# MicroFormerX — Microplastic Detection & Classification
 
-> AI-powered detection and classification of microplastics in microscopy images using a dual-backbone deep learning architecture.
+<div align="center">
 
----
+# Mini Project
+
+# Explainable Deep Learning for Multiclass Microplastic Classification in Algae-Dominated Microscopy Images
+
+### Team Members
+<table>
+<tr>
+<td align="center" width="50%">
+
+<b>Amal P Ajith</b><br>
+Department of Artificial Intelligence and Data Science<br>
+St. Joseph's College of Engineering & Technology, Palai
+
+</td>
+
+<td align="center" width="50%">
+
+<b>Aromal SP</b><br>
+Department of Artificial Intelligence and Data Science<br>
+St. Joseph's College of Engineering & Technology, Palai
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>Geofray Jacob</b><br>
+Department of Artificial Intelligence and Data Science<br>
+St. Joseph's College of Engineering & Technology, Palai
+
+</td>
+
+<td align="center">
+
+<b>Malavika Anilkumar</b><br>
+Department of Artificial Intelligence and Data Science<br>
+St. Joseph's College of Engineering & Technology, Palai
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Project Mentor
+
+<b>Mrs. Sreeresmi T.S</b><br>
+Assistant Professor<br>
+Department of Artificial Intelligence and Data Science<br>
+St. Joseph's College of Engineering & Technology, Palai
+
+</div>
 
 ## Overview
 
