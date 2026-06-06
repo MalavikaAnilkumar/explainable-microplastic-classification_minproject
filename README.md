@@ -57,7 +57,37 @@ St. Joseph's College of Engineering & Technology, Palai
 
 ## Overview
 
-**MicroFormerX** is an end-to-end deep learning pipeline designed to detect and classify microplastic particles from microscopy images — particularly those containing algae. The system combines a **Swin Transformer** and **ConvNeXt** backbone in a fused architecture to classify microplastics into four categories, while also providing explainable AI (XAI) visualizations and microplastic detection inside algae cells.
+Plastic pollution is one of the biggest environmental challenges of our time. As plastic waste breaks down, it forms tiny particles called microplastics, which can be found in water, soil, marine ecosystems, and even living organisms.
+
+Inspired by this growing concern, we developed MicroFormerX, an AI-powered framework that helps identify and classify microplastic particles from microscopy images. The goal was to explore how Deep Learning and Computer Vision can support environmental monitoring and make microplastic analysis faster and more efficient.
+
+To achieve this, we combined Swin Transformer and ConvNeXt architectures to classify different types of microplastic particles. We also integrated Explainable AI (XAI) techniques such as Grad-CAM and LIME to better understand how the model makes its predictions.
+
+In addition to classification, the framework can analyze algae-dominated microscopy images and help identify microplastic particles present within them.
+
+Through this project, we aimed not only to build an accurate AI model but also to demonstrate how technology can contribute to addressing real-world environmental challenges.
+
+Key Features
+
+✅ Automated microplastic classification from microscopy images
+
+✅ Swin Transformer + ConvNeXt based Deep Learning framework
+
+✅ Explainable AI using Grad-CAM and LIME
+
+✅ Detection of microplastics in algae-dominated samples
+
+✅ Image preprocessing and augmentation pipeline
+
+✅ Python-based Computer Vision and Deep Learning workflow
+
+Classification Categories
+Pellet Microplastics
+Fragment Microplastics
+Filament Microplastics
+Algae Cells
+
+**MicroFormerX** is a step towards using Artificial Intelligence for environmental sustainability, combining accuracy, transparency, and real-world impact.
 
 ## Dataset
 ![Output Image](outputs/img.png)
