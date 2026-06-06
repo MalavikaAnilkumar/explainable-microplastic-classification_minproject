@@ -45,7 +45,7 @@ St. Joseph's College of Engineering & Technology, Palai
 </table>
 
 <br>
-##Microplastic Classification using Explainable Deep Learning
+## Microplastic Classification using Explainable Deep Learning
 
 An AI-powered framework for multiclass microplastic classification and environmental monitoring using Swin Transformer, ConvNeXt, Grad-CAM, and LIME.
 
@@ -85,7 +85,7 @@ In addition to classification, the framework can analyze algae-dominated microsc
 
 Through this project, we aimed not only to build an accurate AI model but also to demonstrate how technology can contribute to addressing real-world environmental challenges.
 
-Key Features
+## Key Features
 
 ✅ Automated microplastic classification from microscopy images
 
@@ -99,7 +99,7 @@ Key Features
 
 ✅ Python-based Computer Vision and Deep Learning workflow
 
-Classification Categories
+## Classification Categories
 Pellet Microplastics
 Fragment Microplastics
 Filament Microplastics
@@ -117,7 +117,7 @@ The project includes:
 - External dataset evaluation
 - Explainable AI (GradCAM + LIME)
 - Algae cell segmentation & microplastic detection
-- A modern Flask web application with a premium dark UI
+
 
 ---
 
@@ -134,9 +134,6 @@ The project includes:
 
 ---
 
-## Project Structure
-
-```
 ## Project Structure
 
 ```text
@@ -162,7 +159,8 @@ The project includes:
     └── app.js                  # Frontend logic
 ```
 
-```
+
+
 
 ---
 ## Output
@@ -372,7 +370,7 @@ The `xai.py` pipeline includes a specialized detector that:
 
 ## Web App UI
 
-The MicroFormerX web application provides an interactive and user-friendly platform for microplastic analysis and classification. The interface is designed to simplify image processing, visualization, and model interpretation for researchers, students, and environmental analysts.The web application (`webapp/`) provides a modern, responsive interface with:
+ The interface is designed to simplify image processing, visualization, and model interpretation for researchers, students, and environmental analysts.The web application (`webapp/`) provides a modern, responsive interface with:
 
 - **Modern responsive interface** with a clean dark-themed design
 - **Animated background** with radial gradients
