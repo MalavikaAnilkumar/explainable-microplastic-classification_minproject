@@ -349,12 +349,12 @@ The `xai.py` pipeline includes a specialized detector that:
 
 ## Web App UI
 
-The web application (`webapp/`) provides a modern, responsive interface with:
+The MicroFormerX web application provides an interactive and user-friendly platform for microplastic analysis and classification. The interface is designed to simplify image processing, visualization, and model interpretation for researchers, students, and environmental analysts.The web application (`webapp/`) provides a modern, responsive interface with:
 
-- **Premium dark theme** with glassmorphism cards
+- **Modern responsive interface** with a clean dark-themed design
 - **Animated background** with radial gradients
 - **Drag-and-drop upload zone** with visual feedback
-- **Camera capture modal** for mobile/desktop cameras
+- **Camera capture model** for mobile/desktop cameras
 - **Confidence bar charts** with animated transitions
 - **Morphology stats grid** (circularity, aspect ratio, solidity, area)
 - **Annotated detection image** tab with bounding box overlay
