@@ -45,15 +45,32 @@ St. Joseph's College of Engineering & Technology, Palai
 </table>
 
 <br>
+# Microplastic Classification using Explainable Deep Learning
 
-### Project Mentor
+An AI-powered framework for multiclass microplastic classification and environmental monitoring using Swin Transformer, ConvNeXt, Grad-CAM, and LIME.
+## Project Coordinators
+
+<b>Mrs. Reshmi Annamma George</b><br>
+Project Coordinator<br>
+Department of Artificial Intelligence and Data Science<br>
+St. Joseph's College of Engineering & Technology, Palai
+
+<br>
+
+<b>Mr. Elvin Kuruvila</b><br>
+Project Coordinator<br>
+Department of Artificial Intelligence and Data Science<br>
+St. Joseph's College of Engineering & Technology, Palai
+
+---
+
+## Project Mentor
 
 <b>Mrs. Sreeresmi T.S</b><br>
 Assistant Professor<br>
 Department of Artificial Intelligence and Data Science<br>
 St. Joseph's College of Engineering & Technology, Palai
 
-</div>
 
 ## Overview
 
@@ -391,6 +408,9 @@ All generated artifacts are saved to the `outputs/` directory:
 
 ## Acknowledgments
 
+We would like to express our sincere gratitude to our Project Coordinators, Mrs. Reshmi Annamma George and Mr. Elvin Kuruvila, for their valuable feedback, suggestions, and guidance throughout the project reviews.
+We extend our heartfelt thanks to Mrs. Sreeresmi T.S., Assistant Professor, Department of Artificial Intelligence and Data Science, St. Joseph's College of Engineering & Technology, Palai, for her continuous support, technical guidance, encouragement, and mentorship throughout the development of this project.
+We also acknowledge the open-source community and the following tools and frameworks that made this project possible:
 - [PyTorch](https://pytorch.org/) & [Torchvision](https://pytorch.org/vision/)
 - [timm](https://github.com/huggingface/pytorch-image-models) by HuggingFace
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
