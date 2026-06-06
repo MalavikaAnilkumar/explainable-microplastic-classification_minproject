@@ -45,9 +45,10 @@ St. Joseph's College of Engineering & Technology, Palai
 </table>
 
 <br>
-# Microplastic Classification using Explainable Deep Learning
+##Microplastic Classification using Explainable Deep Learning
 
 An AI-powered framework for multiclass microplastic classification and environmental monitoring using Swin Transformer, ConvNeXt, Grad-CAM, and LIME.
+
 ## Project Coordinators
 
 <b>Mrs. Reshmi Annamma George</b><br>
@@ -136,26 +137,31 @@ The project includes:
 ## Project Structure
 
 ```
+## Project Structure
+
+```text
 .
 ├── app.py                      # Flask backend API
-├── config.py                   # Global configuration (paths, hyperparams, device)
-├── microformerx_rtx3050.py     # MicroFormerX model definition
-├── train.py                    # Training script with augmentation & AMP
-├── infer.py                    # Single-image inference script
-├── evaluate.py                 # External test set evaluation & confusion matrix
-├── xai.py                      # Explainable AI: GradCAM, LIME, algae segmentation, MP detection
-├── visual_analysis.py          # Visual analysis with detection overlays
-├── create_external_dataset.py  # Generate external test set with realistic variations
-├── requirements.txt            # Python dependencies
+├── config.py                   # Configuration settings
+├── microformerx_rtx3050.py     # Model architecture
+├── train.py                    # Model training
+├── infer.py                    # Single image inference
+├── evaluate.py                 # Model evaluation
+├── xai.py                      # Grad-CAM, LIME & XAI analysis
+├── visual_analysis.py          # Detection visualization
+├── create_external_dataset.py  # External dataset generation
+├── requirements.txt            # Project dependencies
 ├── dataset/
-│   ├── train/                  # Training images (4 classes)
-│   ├── val/                    # Validation images (4 classes)
-│   └── external_test/          # External test images with variations
-├── outputs/                    # Model checkpoints, logs, result images
-└── webapp/                     # Frontend application
-    ├── index.html
-    ├── style.css
-    └── app.js
+│   ├── train/                  # Training dataset
+│   ├── val/                    # Validation dataset
+│   └── external_test/          # External testing dataset
+├── outputs/                    # Results, checkpoints & logs
+└── webapp/
+    ├── index.html              # User interface
+    ├── style.css               # Styling
+    └── app.js                  # Frontend logic
+```
+
 ```
 
 ---
